@@ -42,11 +42,4 @@ class { 'nsclient':
 }
 ```
 
-Contribute:
---
 
-* Fork it
-* Create a branch
-* Improve/fix (with spec tests)
-* Push new branch
-* Submit a PR
